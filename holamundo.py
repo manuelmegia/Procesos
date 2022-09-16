@@ -10,4 +10,4 @@ def suma (x, y):
 def resta(x, y):
     return x-y
 
-print(suma(2, suma(3, suma(5, 7))))
+print(suma(2, suma(3, suma(5, resta(3, 4)))))
