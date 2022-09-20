@@ -1,0 +1,9 @@
+[Unit]
+Description=Arranque de aplicación inbin
+
+[Service]
+ExecStart=/bin/bash /vagrant/Conversions/conversions.bash
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
