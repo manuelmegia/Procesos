@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-27T07:57:25.046950200Z</date>
+  <millis>1664265445046</millis>
+  <nanos>950200</nanos>
+  <sequence>0</sequence>
+  <logger>HelloThread</logger>
+  <level>INFO</level>
+  <class>HelloThread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Hola desde Thread</message>
+</record>
+</log>

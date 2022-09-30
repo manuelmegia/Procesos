@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-29T07:04:33.914384Z</date>
+  <millis>1664435073914</millis>
+  <nanos>384000</nanos>
+  <sequence>0</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>FINEST</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es finest</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:33.929380900Z</date>
+  <millis>1664435073929</millis>
+  <nanos>380900</nanos>
+  <sequence>1</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>FINER</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es finer</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:33.930378200Z</date>
+  <millis>1664435073930</millis>
+  <nanos>378200</nanos>
+  <sequence>2</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>FINE</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es fine</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:33.930378200Z</date>
+  <millis>1664435073930</millis>
+  <nanos>378200</nanos>
+  <sequence>3</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>CONFIG</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es config</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:34.003377800Z</date>
+  <millis>1664435074003</millis>
+  <nanos>377800</nanos>
+  <sequence>4</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>INFO</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es info</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:34.005377400Z</date>
+  <millis>1664435074005</millis>
+  <nanos>377400</nanos>
+  <sequence>5</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>WARNING</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es warning</message>
+</record>
+<record>
+  <date>2022-09-29T07:04:34.007376400Z</date>
+  <millis>1664435074007</millis>
+  <nanos>376400</nanos>
+  <sequence>6</sequence>
+  <logger>TestLoggingPSP</logger>
+  <level>SEVERE</level>
+  <class>TestLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es severe</message>
+</record>
+</log>

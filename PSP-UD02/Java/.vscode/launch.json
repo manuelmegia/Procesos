@@ -1,0 +1,52 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HelloRunnable",
+            "request": "launch",
+            "mainClass": "HelloRunnable",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Oca",
+            "request": "launch",
+            "mainClass": "laOca.Oca",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SleepMessages",
+            "request": "launch",
+            "mainClass": "SleepMessages",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleThreads",
+            "request": "launch",
+            "mainClass": "SimpleThreads",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestLoggingPSP",
+            "request": "launch",
+            "mainClass": "TestLoggingPSP",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "",
+            "args": [
+                "10"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-27T07:42:52.170158100Z</date>
+  <millis>1664264572170</millis>
+  <nanos>158100</nanos>
+  <sequence>0</sequence>
+  <logger>MultiRequester</logger>
+  <level>FINEST</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es fine</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.182168500Z</date>
+  <millis>1664264572182</millis>
+  <nanos>168500</nanos>
+  <sequence>1</sequence>
+  <logger>MultiRequester</logger>
+  <level>FINER</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es fine</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.183189Z</date>
+  <millis>1664264572183</millis>
+  <nanos>189000</nanos>
+  <sequence>2</sequence>
+  <logger>MultiRequester</logger>
+  <level>FINE</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es fine</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.226965900Z</date>
+  <millis>1664264572226</millis>
+  <nanos>965900</nanos>
+  <sequence>3</sequence>
+  <logger>MultiRequester</logger>
+  <level>CONFIG</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es config</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.227970700Z</date>
+  <millis>1664264572227</millis>
+  <nanos>970700</nanos>
+  <sequence>4</sequence>
+  <logger>MultiRequester</logger>
+  <level>INFO</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es info</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.228970Z</date>
+  <millis>1664264572228</millis>
+  <nanos>970000</nanos>
+  <sequence>5</sequence>
+  <logger>MultiRequester</logger>
+  <level>WARNING</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es warning</message>
+</record>
+<record>
+  <date>2022-09-27T07:42:52.230967700Z</date>
+  <millis>1664264572230</millis>
+  <nanos>967700</nanos>
+  <sequence>6</sequence>
+  <logger>MultiRequester</logger>
+  <level>SEVERE</level>
+  <class>testLoggingPSP</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Esto es severe</message>
+</record>
+</log>

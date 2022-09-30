@@ -29,3 +29,75 @@
 [2022-09-20 10:30:39,402] DEBUG    MainThread   - Mensaje de depuración
 [2022-09-20 10:30:39,402] ERROR    MainThread   - Mensaje de error
 [2022-09-20 10:30:39,403] DEBUG    MainThread   - 123
+[2022-09-22 09:27:25,399] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:27:25,400] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:27:25,400] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:27:25,400] DEBUG    MainThread   - 123
+[2022-09-22 09:29:09,017] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:09,017] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:09,017] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:09,018] DEBUG    MainThread   - 123
+[2022-09-22 09:29:18,552] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:18,552] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:18,553] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:18,553] DEBUG    MainThread   - 123
+[2022-09-22 09:29:19,692] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:19,692] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:19,693] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:19,693] DEBUG    MainThread   - 123
+[2022-09-22 09:29:20,067] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:20,067] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:20,067] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:20,067] DEBUG    MainThread   - 123
+[2022-09-22 09:29:20,257] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:20,257] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:20,258] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:20,258] DEBUG    MainThread   - 123
+[2022-09-22 09:29:20,444] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:20,444] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:20,444] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:20,445] DEBUG    MainThread   - 123
+[2022-09-22 09:29:20,674] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:20,674] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:20,675] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:20,675] DEBUG    MainThread   - 123
+[2022-09-22 09:29:20,866] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:20,866] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:20,866] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:20,867] DEBUG    MainThread   - 123
+[2022-09-22 09:29:21,074] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:21,074] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:21,074] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:21,075] DEBUG    MainThread   - 123
+[2022-09-22 09:29:21,302] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:21,302] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:21,302] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:21,302] DEBUG    MainThread   - 123
+[2022-09-22 09:29:21,493] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:21,494] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:21,494] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:21,494] DEBUG    MainThread   - 123
+[2022-09-22 09:29:21,673] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:29:21,673] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:29:21,674] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:29:21,674] DEBUG    MainThread   - 123
+[2022-09-22 09:37:20,756] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:37:20,756] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:37:20,757] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:37:20,757] DEBUG    MainThread   - 123
+[2022-09-22 09:38:38,406] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:38:38,407] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:38:38,407] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:38:38,407] DEBUG    MainThread   - 123
+[2022-09-22 09:40:07,263] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:40:07,264] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:40:07,264] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:40:07,264] DEBUG    MainThread   - 123
+[2022-09-22 09:40:45,315] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:40:45,315] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:40:45,315] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:40:45,316] DEBUG    MainThread   - 123
+[2022-09-22 09:41:11,566] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\Desarrollo\\util\\logs_tools.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-09-22 09:41:11,566] DEBUG    MainThread   - Mensaje de depuración
+[2022-09-22 09:41:11,566] ERROR    MainThread   - Mensaje de error
+[2022-09-22 09:41:11,567] DEBUG    MainThread   - 123

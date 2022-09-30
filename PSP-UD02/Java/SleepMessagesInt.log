@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-26T19:17:08.431329500Z</date>
+  <millis>1664219828431</millis>
+  <nanos>329500</nanos>
+  <sequence>0</sequence>
+  <logger>SleepMessagesInt</logger>
+  <level>INFO</level>
+  <class>SleepMessagesInt</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Umbrío por la pena, casi bruno</message>
+</record>
+<record>
+  <date>2022-09-26T19:17:12.487420200Z</date>
+  <millis>1664219832487</millis>
+  <nanos>420200</nanos>
+  <sequence>1</sequence>
+  <logger>SleepMessagesInt</logger>
+  <level>INFO</level>
+  <class>SleepMessagesInt</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Porque la pena tizna cuando estalla</message>
+</record>
+<record>
+  <date>2022-09-26T19:17:16.498471800Z</date>
+  <millis>1664219836498</millis>
+  <nanos>471800</nanos>
+  <sequence>2</sequence>
+  <logger>SleepMessagesInt</logger>
+  <level>INFO</level>
+  <class>SleepMessagesInt</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Donde yo no me hallo, no se halla</message>
+</record>
+<record>
+  <date>2022-09-26T19:17:20.506941800Z</date>
+  <millis>1664219840506</millis>
+  <nanos>941800</nanos>
+  <sequence>3</sequence>
+  <logger>SleepMessagesInt</logger>
+  <level>INFO</level>
+  <class>SleepMessagesInt</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hombre más apenado que ninguno</message>
+</record>
+</log>
