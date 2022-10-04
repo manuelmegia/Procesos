@@ -6,35 +6,33 @@ public class Jugador implements Runnable {
 
     int pos = 0;
 
-    static Random ra = new Random();
+    protected static Random ra = new Random();
+    protected static int MAXESPERA = 2000;
 
     @Override
     public void run() {
         Thread p = Thread.currentThread();
+        int wa = p.getThreadGroup().activeCount();
         while (pos != 63) {
             try {
-                Thread.sleep(50);
-                System.out.println(p + "Posicion: " + pos);
+                Thread.sleep(1 + ra.nextInt(MAXESPERA));
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            int dados = ra.nextInt(6) + 1;
-            System.out.println(p + "Has sacado: " + dados);
-            if (pos < 63) {
-                pos += dados;
-            } else {
-                pos -= dados;
-            }
-            if (pos==63) {
-                System.out.println("HAS GANADO AAAAAAAAAAAAAAAAAAAAAAAAAA" + p);
-            }
-            if (p.getThreadGroup().activeCount() != 5) {
+            if (p.getThreadGroup().activeCount() != wa) {
                 break;
             }
+            int dados = ra.nextInt(6) + 1;
+            System.out.println(p + "Posicion: " + pos + "\n" + p + "Has sacado: " + dados);
+            if (pos < 63) {
+                pos += dados;
+            } else if (pos > 63) {
+                pos -= dados;
+            }
+            System.out.println(p + "Nueva Posicion: " + pos);
+            if (pos == 63) {
+                System.out.println("HAS GANADO AAAAAAAAAAAAAAAAAAAAAAAAAA" + p);
+            }
         }
-    }
-
-    public int getPos() {
-        return pos;
     }
 }
