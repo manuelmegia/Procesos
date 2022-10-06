@@ -1,3 +1,5 @@
+package laOca;
+
 import java.util.logging.*;
 
 public class PSPLogger {
@@ -9,17 +11,16 @@ public class PSPLogger {
         // de logging.properties y aplicarlo
         try {
             LogManager.getLogManager().readConfiguration(
-                MultiRequester.class.getResourceAsStream("logging.properties")
-            );
+                    Oca.class.getResourceAsStream("logging.properties"));
         } catch (Exception ex) {
             l.severe("Problemas con el fichero de propiedades");
         }
 
         try {
-             // El nombre del log para cada clase será el de la clase,
-             // seguida de .log
-             FileHandler fh = new FileHandler(lname + ".log");
-             l.addHandler(fh);
+            // El nombre del log para cada clase será el de la clase,
+            // seguida de .log
+            FileHandler fh = new FileHandler(lname + ".log");
+            l.addHandler(fh);
         } catch (Exception ex) {
             l.severe("Problemas con el fichero de log");
         }

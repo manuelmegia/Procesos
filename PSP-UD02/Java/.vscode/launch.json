@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Oca",
+            "request": "launch",
+            "mainClass": "laOcaa.Oca",
+            "projectName": "Java_43247ab1"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloRunnable",
             "request": "launch",
             "mainClass": "HelloRunnable",

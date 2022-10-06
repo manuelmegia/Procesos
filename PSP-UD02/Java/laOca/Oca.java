@@ -1,15 +1,17 @@
 package laOca;
 
+import java.util.logging.*;
 import java.util.ArrayList;
 
 public class Oca {
 
+    static Logger logging = PSPLogger.getLogger(Oca.class.getName());
+
     public static void main(String[] args) {
-        ThreadGroup uwu = new ThreadGroup("name");
-        int nJug = 5;
+        int nJug = 10;
         ArrayList<Thread> w = new ArrayList<>();
         for (int i = 0; i < nJug; i++) {
-            w.add(new Thread(uwu, new Jugador()));
+            w.add(new Thread(new Jugador(logging)));
         }
         for (int i = 0; i < w.size(); i++) {
             w.get(i).start();
