@@ -1,0 +1,5041 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T17:00:18.057425900Z</date>
+  <millis>1665334818057</millis>
+  <nanos>425900</nanos>
+  <sequence>0</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 0
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.114478100Z</date>
+  <millis>1665334818114</millis>
+  <nanos>478100</nanos>
+  <sequence>1</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.293640900Z</date>
+  <millis>1665334818293</millis>
+  <nanos>640900</nanos>
+  <sequence>2</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 0
+Thread[Thread-2,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.309655Z</date>
+  <millis>1665334818309</millis>
+  <nanos>655000</nanos>
+  <sequence>3</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.738044700Z</date>
+  <millis>1665334818738</millis>
+  <nanos>44700</nanos>
+  <sequence>4</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 0
+Thread[Thread-4,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.739045Z</date>
+  <millis>1665334818739</millis>
+  <nanos>45000</nanos>
+  <sequence>5</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.784086700Z</date>
+  <millis>1665334818784</millis>
+  <nanos>86700</nanos>
+  <sequence>6</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 3
+Thread[Thread-1,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.785087Z</date>
+  <millis>1665334818785</millis>
+  <nanos>87000</nanos>
+  <sequence>7</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 8</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.786088300Z</date>
+  <millis>1665334818786</millis>
+  <nanos>88300</nanos>
+  <sequence>8</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 0
+Thread[Thread-5,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.786088300Z</date>
+  <millis>1665334818786</millis>
+  <nanos>88300</nanos>
+  <sequence>9</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.936225Z</date>
+  <millis>1665334818936</millis>
+  <nanos>225000</nanos>
+  <sequence>10</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 0
+Thread[Thread-7,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:18.937225500Z</date>
+  <millis>1665334818937</millis>
+  <nanos>225500</nanos>
+  <sequence>11</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.146415400Z</date>
+  <millis>1665334819146</millis>
+  <nanos>415400</nanos>
+  <sequence>12</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 4
+Thread[Thread-2,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.146415400Z</date>
+  <millis>1665334819146</millis>
+  <nanos>415400</nanos>
+  <sequence>13</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 9</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.230491900Z</date>
+  <millis>1665334819230</millis>
+  <nanos>491900</nanos>
+  <sequence>14</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 0
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.231492200Z</date>
+  <millis>1665334819231</millis>
+  <nanos>492200</nanos>
+  <sequence>15</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.343594300Z</date>
+  <millis>1665334819343</millis>
+  <nanos>594300</nanos>
+  <sequence>16</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 0
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.343594300Z</date>
+  <millis>1665334819343</millis>
+  <nanos>594300</nanos>
+  <sequence>17</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.447689Z</date>
+  <millis>1665334819447</millis>
+  <nanos>689000</nanos>
+  <sequence>18</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 3
+Thread[Thread-4,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.447689Z</date>
+  <millis>1665334819447</millis>
+  <nanos>689000</nanos>
+  <sequence>19</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.578807800Z</date>
+  <millis>1665334819578</millis>
+  <nanos>807800</nanos>
+  <sequence>20</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 0
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.579808900Z</date>
+  <millis>1665334819579</millis>
+  <nanos>808900</nanos>
+  <sequence>21</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.617843700Z</date>
+  <millis>1665334819617</millis>
+  <nanos>843700</nanos>
+  <sequence>22</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 0
+Thread[Thread-9,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.618844800Z</date>
+  <millis>1665334819618</millis>
+  <nanos>844800</nanos>
+  <sequence>23</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.819026100Z</date>
+  <millis>1665334819819</millis>
+  <nanos>26100</nanos>
+  <sequence>24</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 0
+Thread[Thread-0,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.820027200Z</date>
+  <millis>1665334819820</millis>
+  <nanos>27200</nanos>
+  <sequence>25</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.834039900Z</date>
+  <millis>1665334819834</millis>
+  <nanos>39900</nanos>
+  <sequence>26</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 3
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.835040800Z</date>
+  <millis>1665334819835</millis>
+  <nanos>40800</nanos>
+  <sequence>27</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.912110900Z</date>
+  <millis>1665334819912</millis>
+  <nanos>110900</nanos>
+  <sequence>28</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 5
+Thread[Thread-7,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:19.912110900Z</date>
+  <millis>1665334819912</millis>
+  <nanos>110900</nanos>
+  <sequence>29</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 7</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.024212600Z</date>
+  <millis>1665334820024</millis>
+  <nanos>212600</nanos>
+  <sequence>30</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 7
+Thread[Thread-7,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.024212600Z</date>
+  <millis>1665334820024</millis>
+  <nanos>212600</nanos>
+  <sequence>31</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 12</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.027215700Z</date>
+  <millis>1665334820027</millis>
+  <nanos>215700</nanos>
+  <sequence>32</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 5
+Thread[Thread-4,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.027215700Z</date>
+  <millis>1665334820027</millis>
+  <nanos>215700</nanos>
+  <sequence>33</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 11</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.160336700Z</date>
+  <millis>1665334820160</millis>
+  <nanos>336700</nanos>
+  <sequence>34</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 8
+Thread[Thread-1,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.160336700Z</date>
+  <millis>1665334820160</millis>
+  <nanos>336700</nanos>
+  <sequence>35</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 13</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.194367900Z</date>
+  <millis>1665334820194</millis>
+  <nanos>367900</nanos>
+  <sequence>36</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 9
+Thread[Thread-2,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.195368300Z</date>
+  <millis>1665334820195</millis>
+  <nanos>368300</nanos>
+  <sequence>37</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 11</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.299463100Z</date>
+  <millis>1665334820299</millis>
+  <nanos>463100</nanos>
+  <sequence>38</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 6
+Thread[Thread-5,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.300464300Z</date>
+  <millis>1665334820300</millis>
+  <nanos>464300</nanos>
+  <sequence>39</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 11</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.373529900Z</date>
+  <millis>1665334820373</millis>
+  <nanos>529900</nanos>
+  <sequence>40</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 13
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.373529900Z</date>
+  <millis>1665334820373</millis>
+  <nanos>529900</nanos>
+  <sequence>41</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 14</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.392547300Z</date>
+  <millis>1665334820392</millis>
+  <nanos>547300</nanos>
+  <sequence>42</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 14
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.393547900Z</date>
+  <millis>1665334820393</millis>
+  <nanos>547900</nanos>
+  <sequence>43</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 17</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.569708600Z</date>
+  <millis>1665334820569</millis>
+  <nanos>708600</nanos>
+  <sequence>44</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 5
+Thread[Thread-3,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.569708600Z</date>
+  <millis>1665334820569</millis>
+  <nanos>708600</nanos>
+  <sequence>45</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 11</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.880990900Z</date>
+  <millis>1665334820880</millis>
+  <nanos>990900</nanos>
+  <sequence>46</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 1
+Thread[Thread-0,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.880990900Z</date>
+  <millis>1665334820880</millis>
+  <nanos>990900</nanos>
+  <sequence>47</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.932037900Z</date>
+  <millis>1665334820932</millis>
+  <nanos>37900</nanos>
+  <sequence>48</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 11
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:20.932037900Z</date>
+  <millis>1665334820932</millis>
+  <nanos>37900</nanos>
+  <sequence>49</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.124211900Z</date>
+  <millis>1665334821124</millis>
+  <nanos>211900</nanos>
+  <sequence>50</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 12
+Thread[Thread-7,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.124211900Z</date>
+  <millis>1665334821124</millis>
+  <nanos>211900</nanos>
+  <sequence>51</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.179262900Z</date>
+  <millis>1665334821179</millis>
+  <nanos>262900</nanos>
+  <sequence>52</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 6
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.179262900Z</date>
+  <millis>1665334821179</millis>
+  <nanos>262900</nanos>
+  <sequence>53</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 9</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.200280700Z</date>
+  <millis>1665334821200</millis>
+  <nanos>280700</nanos>
+  <sequence>54</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 2
+Thread[Thread-8,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.200280700Z</date>
+  <millis>1665334821200</millis>
+  <nanos>280700</nanos>
+  <sequence>55</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 8</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.413474500Z</date>
+  <millis>1665334821413</millis>
+  <nanos>474500</nanos>
+  <sequence>56</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 11
+Thread[Thread-4,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.413474500Z</date>
+  <millis>1665334821413</millis>
+  <nanos>474500</nanos>
+  <sequence>57</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 15</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.534584600Z</date>
+  <millis>1665334821534</millis>
+  <nanos>584600</nanos>
+  <sequence>58</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 8
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.534584600Z</date>
+  <millis>1665334821534</millis>
+  <nanos>584600</nanos>
+  <sequence>59</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 9</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.538588700Z</date>
+  <millis>1665334821538</millis>
+  <nanos>588700</nanos>
+  <sequence>60</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 1
+Thread[Thread-9,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.538588700Z</date>
+  <millis>1665334821538</millis>
+  <nanos>588700</nanos>
+  <sequence>61</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.547596200Z</date>
+  <millis>1665334821547</millis>
+  <nanos>596200</nanos>
+  <sequence>62</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 16
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.547596200Z</date>
+  <millis>1665334821547</millis>
+  <nanos>596200</nanos>
+  <sequence>63</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 17</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.625667200Z</date>
+  <millis>1665334821625</millis>
+  <nanos>667200</nanos>
+  <sequence>64</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 11
+Thread[Thread-2,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.625667200Z</date>
+  <millis>1665334821625</millis>
+  <nanos>667200</nanos>
+  <sequence>65</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 17</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.691727300Z</date>
+  <millis>1665334821691</millis>
+  <nanos>727300</nanos>
+  <sequence>66</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 2
+Thread[Thread-0,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.691727300Z</date>
+  <millis>1665334821691</millis>
+  <nanos>727300</nanos>
+  <sequence>67</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 8</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.904921Z</date>
+  <millis>1665334821904</millis>
+  <nanos>921000</nanos>
+  <sequence>68</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 17
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.904921Z</date>
+  <millis>1665334821904</millis>
+  <nanos>921000</nanos>
+  <sequence>69</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 18</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.917932900Z</date>
+  <millis>1665334821917</millis>
+  <nanos>932900</nanos>
+  <sequence>70</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 9
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:21.917932900Z</date>
+  <millis>1665334821917</millis>
+  <nanos>932900</nanos>
+  <sequence>71</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 10</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.010016500Z</date>
+  <millis>1665334822010</millis>
+  <nanos>16500</nanos>
+  <sequence>72</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 10
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.010016500Z</date>
+  <millis>1665334822010</millis>
+  <nanos>16500</nanos>
+  <sequence>73</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 14</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.069070100Z</date>
+  <millis>1665334822069</millis>
+  <nanos>70100</nanos>
+  <sequence>74</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 17
+Thread[Thread-2,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.070070700Z</date>
+  <millis>1665334822070</millis>
+  <nanos>70700</nanos>
+  <sequence>75</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 21</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.086085300Z</date>
+  <millis>1665334822086</millis>
+  <nanos>85300</nanos>
+  <sequence>76</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 9
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.086085300Z</date>
+  <millis>1665334822086</millis>
+  <nanos>85300</nanos>
+  <sequence>77</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 11</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.145138900Z</date>
+  <millis>1665334822145</millis>
+  <nanos>138900</nanos>
+  <sequence>78</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 11
+Thread[Thread-5,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.145138900Z</date>
+  <millis>1665334822145</millis>
+  <nanos>138900</nanos>
+  <sequence>79</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 13</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.280261800Z</date>
+  <millis>1665334822280</millis>
+  <nanos>261800</nanos>
+  <sequence>80</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 18
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.280261800Z</date>
+  <millis>1665334822280</millis>
+  <nanos>261800</nanos>
+  <sequence>81</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 19</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.493455500Z</date>
+  <millis>1665334822493</millis>
+  <nanos>455500</nanos>
+  <sequence>82</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 11
+Thread[Thread-6,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.493455500Z</date>
+  <millis>1665334822493</millis>
+  <nanos>455500</nanos>
+  <sequence>83</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.519478700Z</date>
+  <millis>1665334822519</millis>
+  <nanos>478700</nanos>
+  <sequence>84</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 14
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.519478700Z</date>
+  <millis>1665334822519</millis>
+  <nanos>478700</nanos>
+  <sequence>85</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.734675200Z</date>
+  <millis>1665334822734</millis>
+  <nanos>675200</nanos>
+  <sequence>86</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 15
+Thread[Thread-4,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.736676900Z</date>
+  <millis>1665334822736</millis>
+  <nanos>676900</nanos>
+  <sequence>87</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.769706800Z</date>
+  <millis>1665334822769</millis>
+  <nanos>706800</nanos>
+  <sequence>88</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 19
+Thread[Thread-1,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.769706800Z</date>
+  <millis>1665334822769</millis>
+  <nanos>706800</nanos>
+  <sequence>89</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 21</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.796730800Z</date>
+  <millis>1665334822796</millis>
+  <nanos>730800</nanos>
+  <sequence>90</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 17
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.796730800Z</date>
+  <millis>1665334822796</millis>
+  <nanos>730800</nanos>
+  <sequence>91</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 23</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.903336100Z</date>
+  <millis>1665334822903</millis>
+  <nanos>336100</nanos>
+  <sequence>92</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 16
+Thread[Thread-3,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:22.903336100Z</date>
+  <millis>1665334822903</millis>
+  <nanos>336100</nanos>
+  <sequence>93</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 20</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.026165Z</date>
+  <millis>1665334823026</millis>
+  <nanos>165000</nanos>
+  <sequence>94</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 16
+Thread[Thread-4,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.026165Z</date>
+  <millis>1665334823026</millis>
+  <nanos>165000</nanos>
+  <sequence>95</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 18</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.045182400Z</date>
+  <millis>1665334823045</millis>
+  <nanos>182400</nanos>
+  <sequence>96</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 6
+Thread[Thread-9,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.045182400Z</date>
+  <millis>1665334823045</millis>
+  <nanos>182400</nanos>
+  <sequence>97</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 8</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.096229800Z</date>
+  <millis>1665334823096</millis>
+  <nanos>229800</nanos>
+  <sequence>98</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 21
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.096229800Z</date>
+  <millis>1665334823096</millis>
+  <nanos>229800</nanos>
+  <sequence>99</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 25</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.182306900Z</date>
+  <millis>1665334823182</millis>
+  <nanos>306900</nanos>
+  <sequence>100</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 8
+Thread[Thread-0,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.182306900Z</date>
+  <millis>1665334823182</millis>
+  <nanos>306900</nanos>
+  <sequence>101</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 14</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.252370800Z</date>
+  <millis>1665334823252</millis>
+  <nanos>370800</nanos>
+  <sequence>102</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 16
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.252370800Z</date>
+  <millis>1665334823252</millis>
+  <nanos>370800</nanos>
+  <sequence>103</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 20</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.342757Z</date>
+  <millis>1665334823342</millis>
+  <nanos>757000</nanos>
+  <sequence>104</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 16
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.342757Z</date>
+  <millis>1665334823342</millis>
+  <nanos>757000</nanos>
+  <sequence>105</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 20</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.369781400Z</date>
+  <millis>1665334823369</millis>
+  <nanos>781400</nanos>
+  <sequence>106</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 20
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.370783100Z</date>
+  <millis>1665334823370</millis>
+  <nanos>783100</nanos>
+  <sequence>107</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 22</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.493538300Z</date>
+  <millis>1665334823493</millis>
+  <nanos>538300</nanos>
+  <sequence>108</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 21
+Thread[Thread-2,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.493538300Z</date>
+  <millis>1665334823493</millis>
+  <nanos>538300</nanos>
+  <sequence>109</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 27</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.525567Z</date>
+  <millis>1665334823525</millis>
+  <nanos>567000</nanos>
+  <sequence>110</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 20
+Thread[Thread-8,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.525567Z</date>
+  <millis>1665334823525</millis>
+  <nanos>567000</nanos>
+  <sequence>111</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 25</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.731755500Z</date>
+  <millis>1665334823731</millis>
+  <nanos>755500</nanos>
+  <sequence>112</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 13
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.731755500Z</date>
+  <millis>1665334823731</millis>
+  <nanos>755500</nanos>
+  <sequence>113</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 16</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.737760200Z</date>
+  <millis>1665334823737</millis>
+  <nanos>760200</nanos>
+  <sequence>114</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 8
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.737760200Z</date>
+  <millis>1665334823737</millis>
+  <nanos>760200</nanos>
+  <sequence>115</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 12</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.747769Z</date>
+  <millis>1665334823747</millis>
+  <nanos>769000</nanos>
+  <sequence>116</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 25
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.747769Z</date>
+  <millis>1665334823747</millis>
+  <nanos>769000</nanos>
+  <sequence>117</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 26</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.812828200Z</date>
+  <millis>1665334823812</millis>
+  <nanos>828200</nanos>
+  <sequence>118</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 16
+Thread[Thread-5,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.812828200Z</date>
+  <millis>1665334823812</millis>
+  <nanos>828200</nanos>
+  <sequence>119</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 22</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.955958600Z</date>
+  <millis>1665334823955</millis>
+  <nanos>958600</nanos>
+  <sequence>120</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 23
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.955958600Z</date>
+  <millis>1665334823955</millis>
+  <nanos>958600</nanos>
+  <sequence>121</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 24</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.991991300Z</date>
+  <millis>1665334823991</millis>
+  <nanos>991300</nanos>
+  <sequence>122</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 22
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:23.991991300Z</date>
+  <millis>1665334823991</millis>
+  <nanos>991300</nanos>
+  <sequence>123</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 26</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.073064600Z</date>
+  <millis>1665334824073</millis>
+  <nanos>64600</nanos>
+  <sequence>124</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 27
+Thread[Thread-2,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.073064600Z</date>
+  <millis>1665334824073</millis>
+  <nanos>64600</nanos>
+  <sequence>125</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 33</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.210189100Z</date>
+  <millis>1665334824210</millis>
+  <nanos>189100</nanos>
+  <sequence>126</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 18
+Thread[Thread-4,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.210189100Z</date>
+  <millis>1665334824210</millis>
+  <nanos>189100</nanos>
+  <sequence>127</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 19</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.231208600Z</date>
+  <millis>1665334824231</millis>
+  <nanos>208600</nanos>
+  <sequence>128</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 14
+Thread[Thread-0,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.231208600Z</date>
+  <millis>1665334824231</millis>
+  <nanos>208600</nanos>
+  <sequence>129</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 17</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.783915200Z</date>
+  <millis>1665334824783</millis>
+  <nanos>915200</nanos>
+  <sequence>130</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 20
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.783915200Z</date>
+  <millis>1665334824783</millis>
+  <nanos>915200</nanos>
+  <sequence>131</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 25</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.791922600Z</date>
+  <millis>1665334824791</millis>
+  <nanos>922600</nanos>
+  <sequence>132</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 25
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.791922600Z</date>
+  <millis>1665334824791</millis>
+  <nanos>922600</nanos>
+  <sequence>133</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 28</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.813942600Z</date>
+  <millis>1665334824813</millis>
+  <nanos>942600</nanos>
+  <sequence>134</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 26
+Thread[Thread-8,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.813942600Z</date>
+  <millis>1665334824813</millis>
+  <nanos>942600</nanos>
+  <sequence>135</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 29</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.854979800Z</date>
+  <millis>1665334824854</millis>
+  <nanos>979800</nanos>
+  <sequence>136</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 26
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.854979800Z</date>
+  <millis>1665334824854</millis>
+  <nanos>979800</nanos>
+  <sequence>137</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 28</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.996108400Z</date>
+  <millis>1665334824996</millis>
+  <nanos>108400</nanos>
+  <sequence>138</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 29
+Thread[Thread-8,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:24.996108400Z</date>
+  <millis>1665334824996</millis>
+  <nanos>108400</nanos>
+  <sequence>139</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 32</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.166262400Z</date>
+  <millis>1665334825166</millis>
+  <nanos>262400</nanos>
+  <sequence>140</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 17
+Thread[Thread-0,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.166262400Z</date>
+  <millis>1665334825166</millis>
+  <nanos>262400</nanos>
+  <sequence>141</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 21</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.471539600Z</date>
+  <millis>1665334825471</millis>
+  <nanos>539600</nanos>
+  <sequence>142</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 12
+Thread[Thread-9,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.471539600Z</date>
+  <millis>1665334825471</millis>
+  <nanos>539600</nanos>
+  <sequence>143</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 13</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.522586300Z</date>
+  <millis>1665334825522</millis>
+  <nanos>586300</nanos>
+  <sequence>144</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 22
+Thread[Thread-5,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.522586300Z</date>
+  <millis>1665334825522</millis>
+  <nanos>586300</nanos>
+  <sequence>145</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 23</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.568628100Z</date>
+  <millis>1665334825568</millis>
+  <nanos>628100</nanos>
+  <sequence>146</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 33
+Thread[Thread-2,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.568628100Z</date>
+  <millis>1665334825568</millis>
+  <nanos>628100</nanos>
+  <sequence>147</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 36</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.607664600Z</date>
+  <millis>1665334825607</millis>
+  <nanos>664600</nanos>
+  <sequence>148</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 32
+Thread[Thread-8,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.607664600Z</date>
+  <millis>1665334825607</millis>
+  <nanos>664600</nanos>
+  <sequence>149</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 37</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.672723100Z</date>
+  <millis>1665334825672</millis>
+  <nanos>723100</nanos>
+  <sequence>150</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 28
+Thread[Thread-1,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.672723100Z</date>
+  <millis>1665334825672</millis>
+  <nanos>723100</nanos>
+  <sequence>151</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 30</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.711760400Z</date>
+  <millis>1665334825711</millis>
+  <nanos>760400</nanos>
+  <sequence>152</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 19
+Thread[Thread-4,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.712760500Z</date>
+  <millis>1665334825712</millis>
+  <nanos>760500</nanos>
+  <sequence>153</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 23</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.750793400Z</date>
+  <millis>1665334825750</millis>
+  <nanos>793400</nanos>
+  <sequence>154</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 24
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.750793400Z</date>
+  <millis>1665334825750</millis>
+  <nanos>793400</nanos>
+  <sequence>155</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 25</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.903932600Z</date>
+  <millis>1665334825903</millis>
+  <nanos>932600</nanos>
+  <sequence>156</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 13
+Thread[Thread-9,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:25.903932600Z</date>
+  <millis>1665334825903</millis>
+  <nanos>932600</nanos>
+  <sequence>157</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 19</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.153159800Z</date>
+  <millis>1665334826153</millis>
+  <nanos>159800</nanos>
+  <sequence>158</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 28
+Thread[Thread-6,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.153159800Z</date>
+  <millis>1665334826153</millis>
+  <nanos>159800</nanos>
+  <sequence>159</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 33</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.429410100Z</date>
+  <millis>1665334826429</millis>
+  <nanos>410100</nanos>
+  <sequence>160</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 30
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.429410100Z</date>
+  <millis>1665334826429</millis>
+  <nanos>410100</nanos>
+  <sequence>161</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 31</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.433414200Z</date>
+  <millis>1665334826433</millis>
+  <nanos>414200</nanos>
+  <sequence>162</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 23
+Thread[Thread-4,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.433414200Z</date>
+  <millis>1665334826433</millis>
+  <nanos>414200</nanos>
+  <sequence>163</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 29</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.542514Z</date>
+  <millis>1665334826542</millis>
+  <nanos>514000</nanos>
+  <sequence>164</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 25
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.542514Z</date>
+  <millis>1665334826542</millis>
+  <nanos>514000</nanos>
+  <sequence>165</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 30</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.671630600Z</date>
+  <millis>1665334826671</millis>
+  <nanos>630600</nanos>
+  <sequence>166</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 25
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.671630600Z</date>
+  <millis>1665334826671</millis>
+  <nanos>630600</nanos>
+  <sequence>167</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 31</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.704660300Z</date>
+  <millis>1665334826704</millis>
+  <nanos>660300</nanos>
+  <sequence>168</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 21
+Thread[Thread-0,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:26.704660300Z</date>
+  <millis>1665334826704</millis>
+  <nanos>660300</nanos>
+  <sequence>169</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 22</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.007935500Z</date>
+  <millis>1665334827007</millis>
+  <nanos>935500</nanos>
+  <sequence>170</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 37
+Thread[Thread-8,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.007935500Z</date>
+  <millis>1665334827007</millis>
+  <nanos>935500</nanos>
+  <sequence>171</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 42</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.140055500Z</date>
+  <millis>1665334827140</millis>
+  <nanos>55500</nanos>
+  <sequence>172</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 33
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.140055500Z</date>
+  <millis>1665334827140</millis>
+  <nanos>55500</nanos>
+  <sequence>173</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 37</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.237143400Z</date>
+  <millis>1665334827237</millis>
+  <nanos>143400</nanos>
+  <sequence>174</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 42
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.237143400Z</date>
+  <millis>1665334827237</millis>
+  <nanos>143400</nanos>
+  <sequence>175</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.265169600Z</date>
+  <millis>1665334827265</millis>
+  <nanos>169600</nanos>
+  <sequence>176</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 23
+Thread[Thread-5,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.265169600Z</date>
+  <millis>1665334827265</millis>
+  <nanos>169600</nanos>
+  <sequence>177</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 29</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.442330800Z</date>
+  <millis>1665334827442</millis>
+  <nanos>330800</nanos>
+  <sequence>178</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 43
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.442330800Z</date>
+  <millis>1665334827442</millis>
+  <nanos>330800</nanos>
+  <sequence>179</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 45</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.479364900Z</date>
+  <millis>1665334827479</millis>
+  <nanos>364900</nanos>
+  <sequence>180</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 36
+Thread[Thread-2,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.479364900Z</date>
+  <millis>1665334827479</millis>
+  <nanos>364900</nanos>
+  <sequence>181</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 40</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.542421700Z</date>
+  <millis>1665334827542</millis>
+  <nanos>421700</nanos>
+  <sequence>182</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 29
+Thread[Thread-4,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.542421700Z</date>
+  <millis>1665334827542</millis>
+  <nanos>421700</nanos>
+  <sequence>183</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 30</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.572449100Z</date>
+  <millis>1665334827572</millis>
+  <nanos>449100</nanos>
+  <sequence>184</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 31
+Thread[Thread-7,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.572449100Z</date>
+  <millis>1665334827572</millis>
+  <nanos>449100</nanos>
+  <sequence>185</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 35</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.811667Z</date>
+  <millis>1665334827811</millis>
+  <nanos>667000</nanos>
+  <sequence>186</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 19
+Thread[Thread-9,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.811667Z</date>
+  <millis>1665334827811</millis>
+  <nanos>667000</nanos>
+  <sequence>187</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 20</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.865715300Z</date>
+  <millis>1665334827865</millis>
+  <nanos>715300</nanos>
+  <sequence>188</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 35
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.865715300Z</date>
+  <millis>1665334827865</millis>
+  <nanos>715300</nanos>
+  <sequence>189</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 41</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.872722100Z</date>
+  <millis>1665334827872</millis>
+  <nanos>722100</nanos>
+  <sequence>190</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 30
+Thread[Thread-4,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.872722100Z</date>
+  <millis>1665334827872</millis>
+  <nanos>722100</nanos>
+  <sequence>191</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 31</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.962803Z</date>
+  <millis>1665334827962</millis>
+  <nanos>803000</nanos>
+  <sequence>192</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 20
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:27.962803Z</date>
+  <millis>1665334827962</millis>
+  <nanos>803000</nanos>
+  <sequence>193</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 24</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.182002Z</date>
+  <millis>1665334828182</millis>
+  <nanos>2000</nanos>
+  <sequence>194</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 22
+Thread[Thread-0,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.182002Z</date>
+  <millis>1665334828182</millis>
+  <nanos>2000</nanos>
+  <sequence>195</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 26</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.224040200Z</date>
+  <millis>1665334828224</millis>
+  <nanos>40200</nanos>
+  <sequence>196</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 30
+Thread[Thread-3,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.224040200Z</date>
+  <millis>1665334828224</millis>
+  <nanos>40200</nanos>
+  <sequence>197</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 36</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.241056100Z</date>
+  <millis>1665334828241</millis>
+  <nanos>56100</nanos>
+  <sequence>198</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 40
+Thread[Thread-2,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.241056100Z</date>
+  <millis>1665334828241</millis>
+  <nanos>56100</nanos>
+  <sequence>199</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.332138700Z</date>
+  <millis>1665334828332</millis>
+  <nanos>138700</nanos>
+  <sequence>200</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 37
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.332138700Z</date>
+  <millis>1665334828332</millis>
+  <nanos>138700</nanos>
+  <sequence>201</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 41</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.344149500Z</date>
+  <millis>1665334828344</millis>
+  <nanos>149500</nanos>
+  <sequence>202</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 31
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.344149500Z</date>
+  <millis>1665334828344</millis>
+  <nanos>149500</nanos>
+  <sequence>203</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 35</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.573357400Z</date>
+  <millis>1665334828573</millis>
+  <nanos>357400</nanos>
+  <sequence>204</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 26
+Thread[Thread-0,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.573357400Z</date>
+  <millis>1665334828573</millis>
+  <nanos>357400</nanos>
+  <sequence>205</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 27</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.713484700Z</date>
+  <millis>1665334828713</millis>
+  <nanos>484700</nanos>
+  <sequence>206</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 41
+Thread[Thread-7,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.713484700Z</date>
+  <millis>1665334828713</millis>
+  <nanos>484700</nanos>
+  <sequence>207</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.757524600Z</date>
+  <millis>1665334828757</millis>
+  <nanos>524600</nanos>
+  <sequence>208</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 29
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.757524600Z</date>
+  <millis>1665334828757</millis>
+  <nanos>524600</nanos>
+  <sequence>209</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 32</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.861619200Z</date>
+  <millis>1665334828861</millis>
+  <nanos>619200</nanos>
+  <sequence>210</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 31
+Thread[Thread-4,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.861619200Z</date>
+  <millis>1665334828861</millis>
+  <nanos>619200</nanos>
+  <sequence>211</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 37</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.896651700Z</date>
+  <millis>1665334828896</millis>
+  <nanos>651700</nanos>
+  <sequence>212</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 35
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.896651700Z</date>
+  <millis>1665334828896</millis>
+  <nanos>651700</nanos>
+  <sequence>213</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 39</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.994740200Z</date>
+  <millis>1665334828994</millis>
+  <nanos>740200</nanos>
+  <sequence>214</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 43
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:28.994740200Z</date>
+  <millis>1665334828994</millis>
+  <nanos>740200</nanos>
+  <sequence>215</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 49</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.087824800Z</date>
+  <millis>1665334829087</millis>
+  <nanos>824800</nanos>
+  <sequence>216</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 36
+Thread[Thread-3,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.087824800Z</date>
+  <millis>1665334829087</millis>
+  <nanos>824800</nanos>
+  <sequence>217</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 37</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.161892400Z</date>
+  <millis>1665334829161</millis>
+  <nanos>892400</nanos>
+  <sequence>218</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 45
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.161892400Z</date>
+  <millis>1665334829161</millis>
+  <nanos>892400</nanos>
+  <sequence>219</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 49</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.229953900Z</date>
+  <millis>1665334829229</millis>
+  <nanos>953900</nanos>
+  <sequence>220</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 37
+Thread[Thread-4,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.229953900Z</date>
+  <millis>1665334829229</millis>
+  <nanos>953900</nanos>
+  <sequence>221</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 39</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.291009200Z</date>
+  <millis>1665334829291</millis>
+  <nanos>9200</nanos>
+  <sequence>222</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 24
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.291009200Z</date>
+  <millis>1665334829291</millis>
+  <nanos>9200</nanos>
+  <sequence>223</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 28</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.340054Z</date>
+  <millis>1665334829340</millis>
+  <nanos>54000</nanos>
+  <sequence>224</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 43
+Thread[Thread-2,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.340054Z</date>
+  <millis>1665334829340</millis>
+  <nanos>54000</nanos>
+  <sequence>225</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 47</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.622311400Z</date>
+  <millis>1665334829622</millis>
+  <nanos>311400</nanos>
+  <sequence>226</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 27
+Thread[Thread-0,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.622311400Z</date>
+  <millis>1665334829622</millis>
+  <nanos>311400</nanos>
+  <sequence>227</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 30</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.784457800Z</date>
+  <millis>1665334829784</millis>
+  <nanos>457800</nanos>
+  <sequence>228</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 49
+Thread[Thread-7,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.784457800Z</date>
+  <millis>1665334829784</millis>
+  <nanos>457800</nanos>
+  <sequence>229</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 54</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.837506700Z</date>
+  <millis>1665334829837</millis>
+  <nanos>506700</nanos>
+  <sequence>230</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 32
+Thread[Thread-5,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.837506700Z</date>
+  <millis>1665334829837</millis>
+  <nanos>506700</nanos>
+  <sequence>231</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 37</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.987642600Z</date>
+  <millis>1665334829987</millis>
+  <nanos>642600</nanos>
+  <sequence>232</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 39
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:29.987642600Z</date>
+  <millis>1665334829987</millis>
+  <nanos>642600</nanos>
+  <sequence>233</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 42</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.122765Z</date>
+  <millis>1665334830122</millis>
+  <nanos>765000</nanos>
+  <sequence>234</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 47
+Thread[Thread-2,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.122765Z</date>
+  <millis>1665334830122</millis>
+  <nanos>765000</nanos>
+  <sequence>235</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 49</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.260890700Z</date>
+  <millis>1665334830260</millis>
+  <nanos>890700</nanos>
+  <sequence>236</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 41
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.260890700Z</date>
+  <millis>1665334830260</millis>
+  <nanos>890700</nanos>
+  <sequence>237</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.279907900Z</date>
+  <millis>1665334830279</millis>
+  <nanos>907900</nanos>
+  <sequence>238</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 54
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.279907900Z</date>
+  <millis>1665334830279</millis>
+  <nanos>907900</nanos>
+  <sequence>239</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 55</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.558160600Z</date>
+  <millis>1665334830558</millis>
+  <nanos>160600</nanos>
+  <sequence>240</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 39
+Thread[Thread-4,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.558160600Z</date>
+  <millis>1665334830558</millis>
+  <nanos>160600</nanos>
+  <sequence>241</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.588188100Z</date>
+  <millis>1665334830588</millis>
+  <nanos>188100</nanos>
+  <sequence>242</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 49
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.588188100Z</date>
+  <millis>1665334830588</millis>
+  <nanos>188100</nanos>
+  <sequence>243</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 50</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.660253200Z</date>
+  <millis>1665334830660</millis>
+  <nanos>253200</nanos>
+  <sequence>244</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 37
+Thread[Thread-3,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.660253200Z</date>
+  <millis>1665334830660</millis>
+  <nanos>253200</nanos>
+  <sequence>245</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 43</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.721308500Z</date>
+  <millis>1665334830721</millis>
+  <nanos>308500</nanos>
+  <sequence>246</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 30
+Thread[Thread-0,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.721308500Z</date>
+  <millis>1665334830721</millis>
+  <nanos>308500</nanos>
+  <sequence>247</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 32</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.874447600Z</date>
+  <millis>1665334830874</millis>
+  <nanos>447600</nanos>
+  <sequence>248</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 43
+Thread[Thread-3,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.874447600Z</date>
+  <millis>1665334830874</millis>
+  <nanos>447600</nanos>
+  <sequence>249</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 46</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.947514700Z</date>
+  <millis>1665334830947</millis>
+  <nanos>514700</nanos>
+  <sequence>250</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 42
+Thread[Thread-1,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:30.947514700Z</date>
+  <millis>1665334830947</millis>
+  <nanos>514700</nanos>
+  <sequence>251</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 48</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.042600600Z</date>
+  <millis>1665334831042</millis>
+  <nanos>600600</nanos>
+  <sequence>252</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 28
+Thread[Thread-9,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.042600600Z</date>
+  <millis>1665334831042</millis>
+  <nanos>600600</nanos>
+  <sequence>253</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 29</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.148696900Z</date>
+  <millis>1665334831148</millis>
+  <nanos>696900</nanos>
+  <sequence>254</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 43
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.148696900Z</date>
+  <millis>1665334831148</millis>
+  <nanos>696900</nanos>
+  <sequence>255</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 46</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.226767700Z</date>
+  <millis>1665334831226</millis>
+  <nanos>767700</nanos>
+  <sequence>256</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 46
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.226767700Z</date>
+  <millis>1665334831226</millis>
+  <nanos>767700</nanos>
+  <sequence>257</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 50</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.472991400Z</date>
+  <millis>1665334831472</millis>
+  <nanos>991400</nanos>
+  <sequence>258</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 50
+Thread[Thread-6,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.472991400Z</date>
+  <millis>1665334831472</millis>
+  <nanos>991400</nanos>
+  <sequence>259</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 56</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.644147100Z</date>
+  <millis>1665334831644</millis>
+  <nanos>147100</nanos>
+  <sequence>260</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 37
+Thread[Thread-5,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.644147100Z</date>
+  <millis>1665334831644</millis>
+  <nanos>147100</nanos>
+  <sequence>261</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 42</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.792281300Z</date>
+  <millis>1665334831792</millis>
+  <nanos>281300</nanos>
+  <sequence>262</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 55
+Thread[Thread-7,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.792281300Z</date>
+  <millis>1665334831792</millis>
+  <nanos>281300</nanos>
+  <sequence>263</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 60</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.882363300Z</date>
+  <millis>1665334831882</millis>
+  <nanos>363300</nanos>
+  <sequence>264</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 49
+Thread[Thread-2,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.882363300Z</date>
+  <millis>1665334831882</millis>
+  <nanos>363300</nanos>
+  <sequence>265</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 50</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.886367700Z</date>
+  <millis>1665334831886</millis>
+  <nanos>367700</nanos>
+  <sequence>266</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 48
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.886367700Z</date>
+  <millis>1665334831886</millis>
+  <nanos>367700</nanos>
+  <sequence>267</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 51</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.917395200Z</date>
+  <millis>1665334831917</millis>
+  <nanos>395200</nanos>
+  <sequence>268</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 50
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:31.917395200Z</date>
+  <millis>1665334831917</millis>
+  <nanos>395200</nanos>
+  <sequence>269</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 54</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.154610500Z</date>
+  <millis>1665334832154</millis>
+  <nanos>610500</nanos>
+  <sequence>270</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 46
+Thread[Thread-3,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.154610500Z</date>
+  <millis>1665334832154</millis>
+  <nanos>610500</nanos>
+  <sequence>271</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 47</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.181635300Z</date>
+  <millis>1665334832181</millis>
+  <nanos>635300</nanos>
+  <sequence>272</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 54
+Thread[Thread-8,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.181635300Z</date>
+  <millis>1665334832181</millis>
+  <nanos>635300</nanos>
+  <sequence>273</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 59</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.448878Z</date>
+  <millis>1665334832448</millis>
+  <nanos>878000</nanos>
+  <sequence>274</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 56
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.448878Z</date>
+  <millis>1665334832448</millis>
+  <nanos>878000</nanos>
+  <sequence>275</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 60</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.537959600Z</date>
+  <millis>1665334832537</millis>
+  <nanos>959600</nanos>
+  <sequence>276</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 43
+Thread[Thread-4,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.537959600Z</date>
+  <millis>1665334832537</millis>
+  <nanos>959600</nanos>
+  <sequence>277</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 46</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.602017100Z</date>
+  <millis>1665334832602</millis>
+  <nanos>17100</nanos>
+  <sequence>278</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 32
+Thread[Thread-0,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.602017100Z</date>
+  <millis>1665334832602</millis>
+  <nanos>17100</nanos>
+  <sequence>279</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 34</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.669078100Z</date>
+  <millis>1665334832669</millis>
+  <nanos>78100</nanos>
+  <sequence>280</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 29
+Thread[Thread-9,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.669078100Z</date>
+  <millis>1665334832669</millis>
+  <nanos>78100</nanos>
+  <sequence>281</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 34</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.715119900Z</date>
+  <millis>1665334832715</millis>
+  <nanos>119900</nanos>
+  <sequence>282</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 59
+Thread[Thread-8,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.715119900Z</date>
+  <millis>1665334832715</millis>
+  <nanos>119900</nanos>
+  <sequence>283</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 62</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.836229900Z</date>
+  <millis>1665334832836</millis>
+  <nanos>229900</nanos>
+  <sequence>284</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 60
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.836229900Z</date>
+  <millis>1665334832836</millis>
+  <nanos>229900</nanos>
+  <sequence>285</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 66</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.908296200Z</date>
+  <millis>1665334832908</millis>
+  <nanos>296200</nanos>
+  <sequence>286</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 34
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.908296200Z</date>
+  <millis>1665334832908</millis>
+  <nanos>296200</nanos>
+  <sequence>287</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 38</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.993372800Z</date>
+  <millis>1665334832993</millis>
+  <nanos>372800</nanos>
+  <sequence>288</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 42
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:32.993372800Z</date>
+  <millis>1665334832993</millis>
+  <nanos>372800</nanos>
+  <sequence>289</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 45</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.135501500Z</date>
+  <millis>1665334833135</millis>
+  <nanos>501500</nanos>
+  <sequence>290</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 62
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.135501500Z</date>
+  <millis>1665334833135</millis>
+  <nanos>501500</nanos>
+  <sequence>291</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 66</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.251606900Z</date>
+  <millis>1665334833251</millis>
+  <nanos>606900</nanos>
+  <sequence>292</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 66
+Thread[Thread-7,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.251606900Z</date>
+  <millis>1665334833251</millis>
+  <nanos>606900</nanos>
+  <sequence>293</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 70</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.523854300Z</date>
+  <millis>1665334833523</millis>
+  <nanos>854300</nanos>
+  <sequence>294</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 38
+Thread[Thread-9,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.523854300Z</date>
+  <millis>1665334833523</millis>
+  <nanos>854300</nanos>
+  <sequence>295</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 44</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.643964Z</date>
+  <millis>1665334833643</millis>
+  <nanos>964000</nanos>
+  <sequence>296</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 51
+Thread[Thread-1,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.643964Z</date>
+  <millis>1665334833643</millis>
+  <nanos>964000</nanos>
+  <sequence>297</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 53</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.662981100Z</date>
+  <millis>1665334833662</millis>
+  <nanos>981100</nanos>
+  <sequence>298</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 45
+Thread[Thread-5,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.662981100Z</date>
+  <millis>1665334833662</millis>
+  <nanos>981100</nanos>
+  <sequence>299</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 46</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.688003300Z</date>
+  <millis>1665334833688</millis>
+  <nanos>3300</nanos>
+  <sequence>300</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 70
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.688003300Z</date>
+  <millis>1665334833688</millis>
+  <nanos>3300</nanos>
+  <sequence>301</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 71</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.717029700Z</date>
+  <millis>1665334833717</millis>
+  <nanos>29700</nanos>
+  <sequence>302</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 44
+Thread[Thread-9,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.717029700Z</date>
+  <millis>1665334833717</millis>
+  <nanos>29700</nanos>
+  <sequence>303</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 50</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.833135900Z</date>
+  <millis>1665334833833</millis>
+  <nanos>135900</nanos>
+  <sequence>304</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 50
+Thread[Thread-2,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.833135900Z</date>
+  <millis>1665334833833</millis>
+  <nanos>135900</nanos>
+  <sequence>305</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 53</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.855155400Z</date>
+  <millis>1665334833855</millis>
+  <nanos>155400</nanos>
+  <sequence>306</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 60
+Thread[Thread-6,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.855155400Z</date>
+  <millis>1665334833855</millis>
+  <nanos>155400</nanos>
+  <sequence>307</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 61</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.958249300Z</date>
+  <millis>1665334833958</millis>
+  <nanos>249300</nanos>
+  <sequence>308</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 53
+Thread[Thread-1,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:33.958249300Z</date>
+  <millis>1665334833958</millis>
+  <nanos>249300</nanos>
+  <sequence>309</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 55</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.096374400Z</date>
+  <millis>1665334834096</millis>
+  <nanos>374400</nanos>
+  <sequence>310</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 34
+Thread[Thread-0,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.096374400Z</date>
+  <millis>1665334834096</millis>
+  <nanos>374400</nanos>
+  <sequence>311</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 39</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.135410400Z</date>
+  <millis>1665334834135</millis>
+  <nanos>410400</nanos>
+  <sequence>312</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 47
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.135410400Z</date>
+  <millis>1665334834135</millis>
+  <nanos>410400</nanos>
+  <sequence>313</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 52</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.158430400Z</date>
+  <millis>1665334834158</millis>
+  <nanos>430400</nanos>
+  <sequence>314</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 61
+Thread[Thread-6,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.158430400Z</date>
+  <millis>1665334834158</millis>
+  <nanos>430400</nanos>
+  <sequence>315</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 66</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.316360500Z</date>
+  <millis>1665334834316</millis>
+  <nanos>360500</nanos>
+  <sequence>316</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 66
+Thread[Thread-8,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.316360500Z</date>
+  <millis>1665334834316</millis>
+  <nanos>360500</nanos>
+  <sequence>317</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 71</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.420455100Z</date>
+  <millis>1665334834420</millis>
+  <nanos>455100</nanos>
+  <sequence>318</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 46
+Thread[Thread-4,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.420455100Z</date>
+  <millis>1665334834420</millis>
+  <nanos>455100</nanos>
+  <sequence>319</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 52</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.728403800Z</date>
+  <millis>1665334834728</millis>
+  <nanos>403800</nanos>
+  <sequence>320</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 71
+Thread[Thread-7,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.728403800Z</date>
+  <millis>1665334834728</millis>
+  <nanos>403800</nanos>
+  <sequence>321</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 74</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.745417200Z</date>
+  <millis>1665334834745</millis>
+  <nanos>417200</nanos>
+  <sequence>322</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 52
+Thread[Thread-4,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.745417200Z</date>
+  <millis>1665334834745</millis>
+  <nanos>417200</nanos>
+  <sequence>323</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 53</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.789458100Z</date>
+  <millis>1665334834789</millis>
+  <nanos>458100</nanos>
+  <sequence>324</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 39
+Thread[Thread-0,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.789458100Z</date>
+  <millis>1665334834789</millis>
+  <nanos>458100</nanos>
+  <sequence>325</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 42</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.831495400Z</date>
+  <millis>1665334834831</millis>
+  <nanos>495400</nanos>
+  <sequence>326</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 74
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.831495400Z</date>
+  <millis>1665334834831</millis>
+  <nanos>495400</nanos>
+  <sequence>327</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 80</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.905562900Z</date>
+  <millis>1665334834905</millis>
+  <nanos>562900</nanos>
+  <sequence>328</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 46
+Thread[Thread-5,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.905562900Z</date>
+  <millis>1665334834905</millis>
+  <nanos>562900</nanos>
+  <sequence>329</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 52</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.911568100Z</date>
+  <millis>1665334834911</millis>
+  <nanos>568100</nanos>
+  <sequence>330</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 53
+Thread[Thread-2,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.911568100Z</date>
+  <millis>1665334834911</millis>
+  <nanos>568100</nanos>
+  <sequence>331</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 55</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.987638100Z</date>
+  <millis>1665334834987</millis>
+  <nanos>638100</nanos>
+  <sequence>332</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 52
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:34.987638100Z</date>
+  <millis>1665334834987</millis>
+  <nanos>638100</nanos>
+  <sequence>333</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 57</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.142778600Z</date>
+  <millis>1665334835142</millis>
+  <nanos>778600</nanos>
+  <sequence>334</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 42
+Thread[Thread-0,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.142778600Z</date>
+  <millis>1665334835142</millis>
+  <nanos>778600</nanos>
+  <sequence>335</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 44</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.224852900Z</date>
+  <millis>1665334835224</millis>
+  <nanos>852900</nanos>
+  <sequence>336</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 55
+Thread[Thread-1,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.224852900Z</date>
+  <millis>1665334835224</millis>
+  <nanos>852900</nanos>
+  <sequence>337</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 60</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.318938800Z</date>
+  <millis>1665334835318</millis>
+  <nanos>938800</nanos>
+  <sequence>338</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 80
+Thread[Thread-7,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.318938800Z</date>
+  <millis>1665334835318</millis>
+  <nanos>938800</nanos>
+  <sequence>339</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 84</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.414025100Z</date>
+  <millis>1665334835414</millis>
+  <nanos>25100</nanos>
+  <sequence>340</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 66
+Thread[Thread-6,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.414025100Z</date>
+  <millis>1665334835414</millis>
+  <nanos>25100</nanos>
+  <sequence>341</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 67</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.443051300Z</date>
+  <millis>1665334835443</millis>
+  <nanos>51300</nanos>
+  <sequence>342</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 50
+Thread[Thread-9,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.443051300Z</date>
+  <millis>1665334835443</millis>
+  <nanos>51300</nanos>
+  <sequence>343</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 56</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.470075700Z</date>
+  <millis>1665334835470</millis>
+  <nanos>75700</nanos>
+  <sequence>344</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 53
+Thread[Thread-4,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.470075700Z</date>
+  <millis>1665334835470</millis>
+  <nanos>75700</nanos>
+  <sequence>345</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 55</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.502104500Z</date>
+  <millis>1665334835502</millis>
+  <nanos>104500</nanos>
+  <sequence>346</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 57
+Thread[Thread-3,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.502104500Z</date>
+  <millis>1665334835502</millis>
+  <nanos>104500</nanos>
+  <sequence>347</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 63</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.599193400Z</date>
+  <millis>1665334835599</millis>
+  <nanos>193400</nanos>
+  <sequence>348</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 63
+Thread[Thread-3,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.599193400Z</date>
+  <millis>1665334835599</millis>
+  <nanos>193400</nanos>
+  <sequence>349</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 66</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.656244800Z</date>
+  <millis>1665334835656</millis>
+  <nanos>244800</nanos>
+  <sequence>350</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 67
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.656244800Z</date>
+  <millis>1665334835656</millis>
+  <nanos>244800</nanos>
+  <sequence>351</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 70</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.984543200Z</date>
+  <millis>1665334835984</millis>
+  <nanos>543200</nanos>
+  <sequence>352</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 66
+Thread[Thread-3,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:35.984543200Z</date>
+  <millis>1665334835984</millis>
+  <nanos>543200</nanos>
+  <sequence>353</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 67</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.046599900Z</date>
+  <millis>1665334836046</millis>
+  <nanos>599900</nanos>
+  <sequence>354</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 52
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.046599900Z</date>
+  <millis>1665334836046</millis>
+  <nanos>599900</nanos>
+  <sequence>355</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 55</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.047601200Z</date>
+  <millis>1665334836047</millis>
+  <nanos>601200</nanos>
+  <sequence>356</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 60
+Thread[Thread-1,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.047601200Z</date>
+  <millis>1665334836047</millis>
+  <nanos>601200</nanos>
+  <sequence>357</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 65</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.050603500Z</date>
+  <millis>1665334836050</millis>
+  <nanos>603500</nanos>
+  <sequence>358</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 71
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.050603500Z</date>
+  <millis>1665334836050</millis>
+  <nanos>603500</nanos>
+  <sequence>359</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 73</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.329856600Z</date>
+  <millis>1665334836329</millis>
+  <nanos>856600</nanos>
+  <sequence>360</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 55
+Thread[Thread-5,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.329856600Z</date>
+  <millis>1665334836329</millis>
+  <nanos>856600</nanos>
+  <sequence>361</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 57</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.356881200Z</date>
+  <millis>1665334836356</millis>
+  <nanos>881200</nanos>
+  <sequence>362</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 55
+Thread[Thread-2,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.356881200Z</date>
+  <millis>1665334836356</millis>
+  <nanos>881200</nanos>
+  <sequence>363</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 57</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.394917200Z</date>
+  <millis>1665334836394</millis>
+  <nanos>917200</nanos>
+  <sequence>364</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 56
+Thread[Thread-9,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.394917200Z</date>
+  <millis>1665334836394</millis>
+  <nanos>917200</nanos>
+  <sequence>365</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 59</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.571075900Z</date>
+  <millis>1665334836571</millis>
+  <nanos>75900</nanos>
+  <sequence>366</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 57
+Thread[Thread-2,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.571075900Z</date>
+  <millis>1665334836571</millis>
+  <nanos>75900</nanos>
+  <sequence>367</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 62</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.580085200Z</date>
+  <millis>1665334836580</millis>
+  <nanos>85200</nanos>
+  <sequence>368</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 44
+Thread[Thread-0,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.580085200Z</date>
+  <millis>1665334836580</millis>
+  <nanos>85200</nanos>
+  <sequence>369</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 45</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.592095900Z</date>
+  <millis>1665334836592</millis>
+  <nanos>95900</nanos>
+  <sequence>370</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 55
+Thread[Thread-4,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.592095900Z</date>
+  <millis>1665334836592</millis>
+  <nanos>95900</nanos>
+  <sequence>371</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 60</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.683177700Z</date>
+  <millis>1665334836683</millis>
+  <nanos>177700</nanos>
+  <sequence>372</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 67
+Thread[Thread-3,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.683177700Z</date>
+  <millis>1665334836683</millis>
+  <nanos>177700</nanos>
+  <sequence>373</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 73</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.908390Z</date>
+  <millis>1665334836908</millis>
+  <nanos>390000</nanos>
+  <sequence>374</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 84
+Thread[Thread-7,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:36.908390Z</date>
+  <millis>1665334836908</millis>
+  <nanos>390000</nanos>
+  <sequence>375</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 86</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.339781700Z</date>
+  <millis>1665334837339</millis>
+  <nanos>781700</nanos>
+  <sequence>376</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Posicion: 62
+Thread[Thread-2,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.339781700Z</date>
+  <millis>1665334837339</millis>
+  <nanos>781700</nanos>
+  <sequence>377</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posicion: 68</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.403839400Z</date>
+  <millis>1665334837403</millis>
+  <nanos>839400</nanos>
+  <sequence>378</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Posicion: 73
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.403839400Z</date>
+  <millis>1665334837403</millis>
+  <nanos>839400</nanos>
+  <sequence>379</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posicion: 77</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.427862Z</date>
+  <millis>1665334837427</millis>
+  <nanos>862000</nanos>
+  <sequence>380</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Posicion: 70
+Thread[Thread-6,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.427862Z</date>
+  <millis>1665334837427</millis>
+  <nanos>862000</nanos>
+  <sequence>381</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posicion: 73</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.533958500Z</date>
+  <millis>1665334837533</millis>
+  <nanos>958500</nanos>
+  <sequence>382</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 86
+Thread[Thread-7,5,main]Has sacado: 6</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.534958400Z</date>
+  <millis>1665334837534</millis>
+  <nanos>958400</nanos>
+  <sequence>383</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 92</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.550973100Z</date>
+  <millis>1665334837550</millis>
+  <nanos>973100</nanos>
+  <sequence>384</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 57
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.551974200Z</date>
+  <millis>1665334837551</millis>
+  <nanos>974200</nanos>
+  <sequence>385</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 60</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.992374Z</date>
+  <millis>1665334837992</millis>
+  <nanos>374000</nanos>
+  <sequence>386</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Posicion: 73
+Thread[Thread-3,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:37.992374Z</date>
+  <millis>1665334837992</millis>
+  <nanos>374000</nanos>
+  <sequence>387</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posicion: 75</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.048425800Z</date>
+  <millis>1665334838048</millis>
+  <nanos>425800</nanos>
+  <sequence>388</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Posicion: 65
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.048425800Z</date>
+  <millis>1665334838048</millis>
+  <nanos>425800</nanos>
+  <sequence>389</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posicion: 66</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.150517700Z</date>
+  <millis>1665334838150</millis>
+  <nanos>517700</nanos>
+  <sequence>390</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Posicion: 60
+Thread[Thread-5,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.150517700Z</date>
+  <millis>1665334838150</millis>
+  <nanos>517700</nanos>
+  <sequence>391</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posicion: 62</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.211573600Z</date>
+  <millis>1665334838211</millis>
+  <nanos>573600</nanos>
+  <sequence>392</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Posicion: 60
+Thread[Thread-4,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.211573600Z</date>
+  <millis>1665334838211</millis>
+  <nanos>573600</nanos>
+  <sequence>393</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posicion: 62</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.219580800Z</date>
+  <millis>1665334838219</millis>
+  <nanos>580800</nanos>
+  <sequence>394</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Posicion: 45
+Thread[Thread-0,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.219580800Z</date>
+  <millis>1665334838219</millis>
+  <nanos>580800</nanos>
+  <sequence>395</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posicion: 50</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.319671400Z</date>
+  <millis>1665334838319</millis>
+  <nanos>671400</nanos>
+  <sequence>396</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Posicion: 59
+Thread[Thread-9,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.319671400Z</date>
+  <millis>1665334838319</millis>
+  <nanos>671400</nanos>
+  <sequence>397</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posicion: 61</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.429771500Z</date>
+  <millis>1665334838429</millis>
+  <nanos>771500</nanos>
+  <sequence>398</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 92
+Thread[Thread-7,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.429771500Z</date>
+  <millis>1665334838429</millis>
+  <nanos>771500</nanos>
+  <sequence>399</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 97</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.470809400Z</date>
+  <millis>1665334838470</millis>
+  <nanos>809400</nanos>
+  <sequence>400</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Posicion: 97
+Thread[Thread-7,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.470809400Z</date>
+  <millis>1665334838470</millis>
+  <nanos>809400</nanos>
+  <sequence>401</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posicion: 100</message>
+</record>
+<record>
+  <date>2022-10-09T17:00:38.471809500Z</date>
+  <millis>1665334838471</millis>
+  <nanos>809500</nanos>
+  <sequence>402</sequence>
+  <logger>laOca.Oca</logger>
+  <level>INFO</level>
+  <class>laOca.Jugador</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>HAS GANADO Thread[Thread-7,5,main]</message>
+</record>
+</log>
