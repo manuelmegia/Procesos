@@ -11,6 +11,7 @@ public class PSPLogger {
         // de logging.properties y aplicarlo
         try {
             LogManager.getLogManager().readConfiguration(
+                    //Tengo que cambiar esta configuración para que funcione con mi programa
                     Oca.class.getResourceAsStream("logging.properties"));
         } catch (Exception ex) {
             l.severe("Problemas con el fichero de propiedades");

@@ -1,6 +1,8 @@
+import sys
+sys.path.append('./util/')
 import logging
 
-from util import logcfg
+from logs_tools import logcfg
 
 import time
 from multiprocessing import Process

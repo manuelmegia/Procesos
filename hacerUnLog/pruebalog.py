@@ -1,6 +1,8 @@
-import logging
+import sys
+sys.path.append('./util/')
 
-from util import logcfg
+from logs_tools import logcfg
+import logging
 
 logcfg(__file__)
 logging.debug("Log para debug")

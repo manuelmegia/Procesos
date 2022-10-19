@@ -1,0 +1,147 @@
+[2022-10-13 09:23:39,069] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:23:39,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:24:51,916] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:24:51,917] INFO     MainThread   - HolaProfe
+[2022-10-13 09:26:32,733] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:26:32,734] INFO     MainThread   - HolaProfe
+[2022-10-13 09:26:37,805] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:26:37,806] INFO     MainThread   - HolaProfe
+[2022-10-13 09:26:38,723] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:26:38,725] INFO     MainThread   - HolaProfe
+[2022-10-13 09:26:39,292] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:26:39,293] INFO     MainThread   - HolaProfe
+[2022-10-13 09:29:07,755] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:29:07,756] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:29:07,756] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:29:07,757] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,528] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:32:28,529] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:32:28,530] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,530] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,531] INFO     MainThread   - HolaProfe
+[2022-10-13 09:32:28,531] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,893] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:34:48,894] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:34:48,894] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:34:48,894] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,894] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,894] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,894] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,894] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,895] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,895] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,895] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,895] INFO     MainThread   - HolaProfe
+[2022-10-13 09:34:48,895] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,072] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:49:57,073] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:49:57,073] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:49:57,074] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,461] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:00,463] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:00,463] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,463] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,464] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:00,464] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,757] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:03,759] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:03,759] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,759] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,760] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,760] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,760] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:03,760] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,068] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:07,069] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:07,069] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:07,070] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,342] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:10,343] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:10,343] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:10,344] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,630] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:13,631] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:13,631] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:13,631] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,631] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,631] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:13,632] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,908] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:16,909] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:16,909] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:16,909] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,909] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,909] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,909] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,909] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,910] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,910] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,910] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,910] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:16,910] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,208] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'c:\\Users\\AlumnoM\\Desktop\\Procesos\\hacerUnLog\\corrutina_hola.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'ERROR', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-13 09:50:20,209] INFO     MainThread   - Creo la tarea hola
+[2022-10-13 09:50:20,209] INFO     MainThread   - Y sigo trabajando
+[2022-10-13 09:50:20,209] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,209] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,209] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,209] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
+[2022-10-13 09:50:20,210] INFO     MainThread   - HolaProfe
