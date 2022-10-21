@@ -55,6 +55,12 @@ ydata = d['resultado']['moneda']['cruz'].values()
 plt.plot(xdata, ydata)
 plt.show()
 
+plt.figure()
+xdata = d['resultado']['moneda']['cara'].keys()
+ydata = d['resultado']['moneda']['cara'].values()
+plt.plot(xdata, ydata)
+plt.show()
+
 #dcaras = d['resultado']['moneda']['cara']
 # pprint(dcaras)
 #dcx = sorted(dcaras.keys)
