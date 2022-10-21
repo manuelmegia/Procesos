@@ -50,8 +50,8 @@ plt.plot(xdata, ydata)
 plt.show()
 
 plt.figure()
-xdata = d['resultado']['moneda']['cruz'].values()
-ydata = d['resultado']['moneda']['cara'].values()
+xdata = d['resultado']['moneda']['cruz'].keys()
+ydata = d['resultado']['moneda']['cruz'].values()
 plt.plot(xdata, ydata)
 plt.show()
 
