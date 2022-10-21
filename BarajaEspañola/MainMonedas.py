@@ -4,7 +4,7 @@ import random
 import matplotlib.pyplot as plt
 
 vmonedas = ["cara", "cruz"]
-NEXPERIMENTOS = 50000
+NEXPERIMENTOS = 1_000_000
 
 
 def tirar_moneda():
@@ -43,19 +43,31 @@ if __name__ == "__main__":
         d['resultado']['moneda']['cruz'][rmon.get("cruz", 0)] += 1
     pprint(d)
 
-dcaras = d['resultado']['moneda']['cara']
-pprint(dcaras)
-dcx = sorted(dcaras.keys)
-print(dcx)
+plt.figure()
+xdata = d['resultado']['dados'].keys()
+ydata = d['resultado']['dados'].values()
+plt.plot(xdata, ydata)
+plt.show()
 
-dcy = []
-for x in dcx:
-    dcy.append(dcaras(x))
+plt.figure()
+xdata = d['resultado']['moneda']['cruz'].values()
+ydata = d['resultado']['moneda']['cara'].values()
+plt.plot(xdata, ydata)
+plt.show()
 
-dcy = [dcaras[x] for x in dcx]
-print(dcy)
-pit.figure()
-pit.plot(dcx, dcy)
-pit.xlabel("Nº de ocurrencias")
-pit.ylabel("Nº de veces")
-pit.show
+#dcaras = d['resultado']['moneda']['cara']
+# pprint(dcaras)
+#dcx = sorted(dcaras.keys)
+# print(dcx)
+
+#dcy = []
+# for x in dcx:
+#    dcy.append(dcaras(x))
+
+#dcy = [dcaras[x] for x in dcx]
+# print(dcy)
+# pit.figure()
+#pit.plot(dcx, dcy)
+#pit.xlabel("Nº de ocurrencias")
+#pit.ylabel("Nº de veces")
+# pit.show
